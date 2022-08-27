@@ -1,4 +1,4 @@
-#	Projete para aprender a trabalhar com git
+#	Projeto para aprender a trabalhar com git
 Este repositório é para treinar os principais conceitos do git
 # Como executar este projeto
 
